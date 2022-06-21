@@ -29,6 +29,6 @@ What is in the app:
 the Git Repo link into to the field.
 * Run the Code
 
-##App In Use
+## App In Use
 <img src='signcracker.gif' title='Sign Cracker App' alt='Using the app, 
 entering observe signs, and app makes a prediction base on the signs'/>
