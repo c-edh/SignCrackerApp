@@ -4,7 +4,7 @@ Developer:
 **Corey Edh**
 
 Why did I create this?
-I created this app to try out SwiftUI for my Artifical Inteligence class, 
+I created this app to try out SwiftUI for my Artifical Intelligence class, 
 this is my first SwiftUI app. The inspiration behind a baseball sign 
 cracking app comes from Mark Rober and his [Sign Stealing app](https://www.youtube.com/watch?v=PmlRbfSavbI) 
 however I written this with algorithm that guess the signs bases on how 
